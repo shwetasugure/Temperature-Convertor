@@ -1,2 +1,2 @@
 # Temperature-Convertor
-Convert Temperature using HTML, CSS and Javascript.
+This website can convert temperature from degree Celsius to Fahrenhite or Kelvin.
